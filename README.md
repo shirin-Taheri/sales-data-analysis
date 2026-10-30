@@ -34,6 +34,17 @@ The tables are linked using identifiers to support analysis across customers, or
 - **DAX** — calculating sales measures, previous-month sales, and monthly growth.
 - **GitHub** — project documentation and portfolio presentation.
 
+
+## Dataset Source
+
+The dataset used in this project was obtained from the [Sales DB Project GitHub Repository](https://github.com/asna208/sales-db-project).
+
+The dataset consists of five CSV files: `customers`, `orders`, `order_details`, `products`, and `sales`.
+
+These files were imported into MySQL for SQL analysis and used to develop the Power BI dashboards.
+
+The source repository describes the data as derived from the Sample Sales Data dataset on Kaggle.
+
 ## SQL Analysis
 
 The SQL analysis explores several business questions, including:
